@@ -43,5 +43,5 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a>
-<img align="left" src="https://github-readme-stats-zenixas.vercel.app/api?username=3nz0k&show_icons=true&theme=cobalt" />
+<img align="left" src="https://github-readme-stats-zenixas.vercel.app/api?username=3nz0k&show_icons=true&theme=dark" />
 </a>
