@@ -38,6 +38,10 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.github.com/https://github.com/3nz0k'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+<h2 align="center">
+  Stuff I worked on last week
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@32e02cdd-c80f-44fa-b98e-599989e105a1/6b107373-8f83-4d3a-9be6-44a8ff0482d6.png" /></a>
+</h2>
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
